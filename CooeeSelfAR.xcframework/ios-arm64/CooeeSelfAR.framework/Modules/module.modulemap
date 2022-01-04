@@ -1,0 +1,6 @@
+framework module CooeeSelfAR {
+  umbrella header "CooeeSelfAR.h"
+
+  export *
+  module * { export * }
+}
